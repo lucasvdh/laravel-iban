@@ -3,6 +3,11 @@ Laravel IBAN validation
 
 IBAN validation made easy.
 
+![license](https://img.shields.io/packagist/v/lucasvdh/laravel-iban.svg)
+![license](https://img.shields.io/packagist/dt/lucasvdh/laravel-iban.svg)
+![license](https://img.shields.io/packagist/l/lucasvdh/laravel-iban.svg)
+![php-v](https://img.shields.io/packagist/php-v/lucasvdh/laravel-iban.svg)
+
 Getting started
 ----------
 1. [Include the package in your application](#include-the-package-in-your-application)
